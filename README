@@ -1,0 +1,3 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=622
+
+Adds a small submenu to the Tools menu of gvim. The menu options allow you to jump to tags and run the different tagselect commands without having to remember all the different key sequences. The keyboard shortcuts are shown on the menu, so this plugin is also useful while you are learning the vim tag commands.
